@@ -1,0 +1,10 @@
+TEACH U — START HERE
+
+1. Open Teach-U.html in your browser to view the website.
+2. Use the menu or Start Troubleshooting button to navigate normally.
+3. The Other HTML Files folder contains the additional pages used by the website.
+4. Keep this folder and the images folder in their current locations. Do not move individual HTML pages out of Other HTML Files, or move the images folder.
+5. Internet is required for any externally linked photos/fonts.
+
+PAGE TRANSITIONS
+This version uses CSS-only, Smart Animate-inspired cross-page transitions. Matching topic headings, step instructions, step images, checklist panels, and main workflow buttons can move/resize between pages in supported modern browsers. For best results, run Teach-U.html with a local server such as VS Code Live Server. Opening files directly with file:// may disable cross-document transitions. Browsers without support still navigate normally. Reduced-motion settings are respected.
